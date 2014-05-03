@@ -2,6 +2,7 @@
  * Jokenpo game class
  *
  * Holds the entire game data and logic.
+ * @link https://github.com/joelwallis/jokenpo
  */
 var Jokenpo = function() {
 
